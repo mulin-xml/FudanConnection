@@ -7,4 +7,4 @@ https://github.com/mulin-xml/FudanConnection/releases
 只有一个可执行文件，打开后输入学号和密码点击连接即可。
 点击右上角关闭会自动缩小到托盘，程序退出请在托盘处右键点击退出。
 ## 界面
-![](image/UI.jpg)
+![Image](images/UI.jpg)
